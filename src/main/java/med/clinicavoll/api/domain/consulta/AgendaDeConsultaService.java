@@ -12,6 +12,7 @@ import org.springframework.data.domain.Pageable;
 import org.springframework.stereotype.Service;
 
 import java.util.List;
+import java.util.Optional;
 
 @Service
 public class AgendaDeConsultaService {
@@ -62,6 +63,15 @@ public class AgendaDeConsultaService {
     public Page<DatosDetalleConsulta> consultar(Pageable paginacion) {
         return consultaRepository.findAll(paginacion).map(DatosDetalleConsulta::new);
     }
+
+//    public void cancelarConsulta(Long id) {
+//        Optional<Consulta> consulta = consultaRepository.findById(id);
+//        if (consulta.isPresent()) {
+//            consultaRepository.delete(consulta.get());
+//        } else {
+//            throw new ConsultaNotFoundException("No se encontró la consulta con el ID " + id);
+//        }
+//    }
 
 //    public void cancelar(DatosCancelamientoConsulta datos) {
 //        if (!consultaRepository.existsById(datos.idConsulta())) {

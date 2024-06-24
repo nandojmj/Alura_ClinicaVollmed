@@ -1,5 +1,6 @@
 package med.clinicavoll.api.controller;
 
+import io.swagger.v3.oas.annotations.Operation;
 import jakarta.validation.Valid;
 import med.clinicavoll.api.domain.usuarios.DatosAutenticacionUsuario;
 import med.clinicavoll.api.domain.usuarios.Usuario;
@@ -26,6 +27,10 @@ public class AutenticacionController {
     private TokenService tokenService;
 
     @PostMapping
+    @Operation(
+            summary = "Autenticacion de Usuarios",
+            description = "Login de Usuarios",
+            tags = { "Login ClinicaVoll.med" })
     public ResponseEntity autenticarUsuario(@RequestBody @Valid DatosAutenticacionUsuario datosAutenticacionUsuario) {
         Authentication authToken = new UsernamePasswordAuthenticationToken(datosAutenticacionUsuario.login(),
                 datosAutenticacionUsuario.clave());
