@@ -10,6 +10,34 @@
 [![Static Badge](https://img.shields.io/badge/license-MIT-blue)](#)
 [![Endpoint Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2Fnandojmj%2FAlura_ClinicaVollmed.json&style=flat&logo=github&color=brightgreen)](#)
 
+Este curso va a desarrollar una API REST para un consultorio médico ficticio llamado Voll.med. Como el curso está enfocado únicamente en la construcción de una API REST utilizando Java y Spring, no habrá ningún tipo de interfaz por parte del usuario, pero sí un desafío para mí hacer una aplicación del lado del cliente que se integre con esta API.
+
+Spring Boot 3: desarrollar una API Rest en Java
+Realice este curso para Java y:
+Cree una API Rest de Java desde cero con Spring Boot
+Desarrolle CRUD usando la base de datos MySQL
+Use Flyway como una herramienta de migración de API
+Realizar validaciones usando Bean Validation
+Realizar paginación de datos API
+
+Spring Boot 3: aplique las mejores prácticas y proteja una API Rest
+Realice este curso para Java y:
+Aprenda buenas practicas en diseño de API
+Aprenda fundamentos basicos de autenticación y autorización
+Aprenda a retornar codigos de error HTTP
+Aprenda fundamentos de Spring Security
+
+Spring Boot 3: documentar, probar y preparar una API para su implementación
+Realice este curso para Java y:
+Aprenda a aislar código de reglas de negocio en una aplicación
+Implementar principios SOLID
+Documentar una API siguiendo el estándar OpenAPI
+Aprenda a escribir pruebas automatizadas en una aplicación con Spring Boot
+Cree una aplicación con Spring Boot
+Use variables de entorno y prepare una aplicación para su implementación
+
+
+
 ![med00](https://github.com/nandojmj/Alura_ClinicaVollmed/assets/156966097/7a113766-5b8d-40e5-90df-d3fac9f79b64)
 
 ![med000](https://github.com/nandojmj/Alura_ClinicaVollmed/assets/156966097/ef849af6-fd8a-4f2e-896d-4fd280bba66e)
