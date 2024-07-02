@@ -12,94 +12,32 @@
 
 Este curso va a desarrollar una API REST para un consultorio médico ficticio llamado Voll.med. Como el curso está enfocado únicamente en la construcción de una API REST utilizando Java y Spring, no habrá ningún tipo de interfaz por parte del usuario, pero sí un desafío para mí hacer una aplicación del lado del cliente que se integre con esta API.
 
-Spring Boot 3: desarrollar una API Rest en Java
-Realice este curso para Java y:
-Cree una API Rest de Java desde cero con Spring Boot
-Desarrolle CRUD usando la base de datos MySQL
-Use Flyway como una herramienta de migración de API
-Realizar validaciones usando Bean Validation
-Realizar paginación de datos API
 
-Spring Boot 3: aplique las mejores prácticas y proteja una API Rest
-Realice este curso para Java y:
-Aprenda buenas practicas en diseño de API
-Aprenda fundamentos basicos de autenticación y autorización
-Aprenda a retornar codigos de error HTTP
-Aprenda fundamentos de Spring Security
+### 1er. Curso de Spring Boot 3: desarrollar una API Rest en Java
 
-Spring Boot 3: documentar, probar y preparar una API para su implementación
-Realice este curso para Java y:
-Aprenda a aislar código de reglas de negocio en una aplicación
-Implementar principios SOLID
-Documentar una API siguiendo el estándar OpenAPI
-Aprenda a escribir pruebas automatizadas en una aplicación con Spring Boot
-Cree una aplicación con Spring Boot
-Use variables de entorno y prepare una aplicación para su implementación
+- Cree una API Rest de Java desde cero con Spring Boot
+- Desarrolle CRUD usando la base de datos MySQL
+- Use Flyway como una herramienta de migración de API
+- Realizar validaciones usando Bean Validation
+- Realizar paginación de datos API
 
+### 2do. Curso Spring Boot 3: aplique las mejores prácticas y proteja una API Rest
 
+- Aprenda buenas practicas en diseño de API
+- Aprenda fundamentos basicos de autenticación y autorización
+- Aprenda a retornar codigos de error HTTP
+- Aprenda fundamentos de Spring Security
 
-![med00](https://github.com/nandojmj/Alura_ClinicaVollmed/assets/156966097/7a113766-5b8d-40e5-90df-d3fac9f79b64)
+### 3er. Curso Spring Boot 3: documentar, probar y preparar una API para su implementación
 
-![med000](https://github.com/nandojmj/Alura_ClinicaVollmed/assets/156966097/ef849af6-fd8a-4f2e-896d-4fd280bba66e)
+- Aprenda a aislar código de reglas de negocio en una aplicación
+- Implementar principios SOLID
+- Documentar una API siguiendo el estándar OpenAPI
+- Aprenda a escribir pruebas automatizadas en una aplicación con Spring Boot
+- Cree una aplicación con Spring Boot
+- Use variables de entorno y prepare una aplicación para su implementación
 
-
-
-
- ![med0](https://github.com/nandojmj/Alura_ClinicaVollmed/assets/156966097/ea6487da-7044-4bd9-ba0d-f1827b5462e8)
  
-![med1](https://github.com/nandojmj/Alura_ClinicaVollmed/assets/156966097/066a4d6d-00d0-4cab-82a4-a704830503d8)
-
-![med2](https://github.com/nandojmj/Alura_ClinicaVollmed/assets/156966097/a8366618-9a28-48b0-a65e-583f6079b052)
-
-![med3](https://github.com/nandojmj/Alura_ClinicaVollmed/assets/156966097/a75b85bd-a698-4544-bd54-bc5e1eb1c524)
-
-![med4](https://github.com/nandojmj/Alura_ClinicaVollmed/assets/156966097/f54fe97c-b749-4b3b-b150-2df31762b6fe)
-
-![med5](https://github.com/nandojmj/Alura_ClinicaVollmed/assets/156966097/8aa5e086-2424-4d94-9779-3a52a8e4bc1d)
-
-![med6](https://github.com/nandojmj/Alura_ClinicaVollmed/assets/156966097/3b629930-3f1a-433a-b6eb-7fc29e7a5df8)
-
-![med7](https://github.com/nandojmj/Alura_ClinicaVollmed/assets/156966097/199c1564-80cf-46e3-8bd8-193417600f53)
-
-![med8](https://github.com/nandojmj/Alura_ClinicaVollmed/assets/156966097/9f11cf78-ba63-4d70-9177-e43619f83aad)
-
-![med9](https://github.com/nandojmj/Alura_ClinicaVollmed/assets/156966097/c952fe73-4bb9-4e53-8a4c-5b58641fdc03)
-
-![med19](https://github.com/nandojmj/Alura_ClinicaVollmed/assets/156966097/4f6bc77b-f775-4864-9d7d-145231aae973)
-
-![med20](https://github.com/nandojmj/Alura_ClinicaVollmed/assets/156966097/cbcc1977-60e6-497b-878e-20cc46db8cab)
-
-![med21](https://github.com/nandojmj/Alura_ClinicaVollmed/assets/156966097/aeffd4aa-11c3-4bc1-9b6a-7480a52afb87)
-
-![med22](https://github.com/nandojmj/Alura_ClinicaVollmed/assets/156966097/8652903b-c8a7-44d6-8091-2f307694e8d5)
-
-![med23](https://github.com/nandojmj/Alura_ClinicaVollmed/assets/156966097/acd5deb0-bf1e-4f40-8c79-96d761aa1bf7)
-
-![med24](https://github.com/nandojmj/Alura_ClinicaVollmed/assets/156966097/6fed5b9d-594e-45f1-8b50-1a030f19fa49)
-
-![med25](https://github.com/nandojmj/Alura_ClinicaVollmed/assets/156966097/ee533ea8-0af6-4a2d-bd1f-fa90431e3948)
-
-![med26](https://github.com/nandojmj/Alura_ClinicaVollmed/assets/156966097/4e0808d9-4940-47be-bdac-ac260a80fb6b)
-
-![med27](https://github.com/nandojmj/Alura_ClinicaVollmed/assets/156966097/28d10bf5-a48c-497e-8290-b31cf18d9c34)
-
-![med28](https://github.com/nandojmj/Alura_ClinicaVollmed/assets/156966097/44b0f84b-d2ab-4ae6-985d-2d47965bc6b4)
-
-![med29](https://github.com/nandojmj/Alura_ClinicaVollmed/assets/156966097/c8d405be-e8dc-4463-b91e-5f269db57f1f)
-
-![med30](https://github.com/nandojmj/Alura_ClinicaVollmed/assets/156966097/900f5e51-4548-4447-b8a9-07ce9f39fccd)
-
-![med31](https://github.com/nandojmj/Alura_ClinicaVollmed/assets/156966097/8df889c1-a409-4384-b9b4-af4e62d84b5b)
-
-![med32](https://github.com/nandojmj/Alura_ClinicaVollmed/assets/156966097/08c29bc0-a079-4fc9-b1d0-85ce4258ac5c)
-
-![med33](https://github.com/nandojmj/Alura_ClinicaVollmed/assets/156966097/4f206a89-bea4-43cb-b2db-7108affb1e5e)
-
-
-Este es un Challenge de la Especialización __Back-End G6 Alura - Oracle Next Education.__ 
-
-<p>El Challenge consiste en un foro, el cual es un espacio donde todos los participantes de una plataforma pueden plantear sus preguntas sobre determinados tópicos. 
-
  
 ## Configurando el entorno Java  
 
@@ -136,9 +74,7 @@ Asegúrese de tener instalado o contar con herramientas como:
 - Spring Security
 - Springdoc
 
-[![springiforo](https://github.com/nandojmj/Alura_Challenge_API_REST_Foro_hub/assets/156966097/b8bb1535-5bb2-4eed-be30-f5524295caa8)](#)
-
-  
+ ![med0](https://github.com/nandojmj/Alura_ClinicaVollmed/assets/156966097/ea6487da-7044-4bd9-ba0d-f1827b5462e8)
 
 &nbsp;
 
@@ -174,8 +110,8 @@ Las migraciones son comandos en lenguaje SQL para la configuración de la base d
 > [!IMPORTANTE]
 > Recuerda siempre pausar/detener la ejecución del proyecto Spring para crear/cambiar las migraciones.
 
- 
-![MIGRATION3](https://github.com/nandojmj/Alura_Challenge_API_REST_Foro_hub/assets/156966097/280ed66a-c136-47ab-a11d-1e6a364fbe2a)
+
+![bdtablamed](https://github.com/nandojmj/Alura_ClinicaVollmed/assets/156966097/d1dca283-6689-46d6-a30a-d6ec448ffa87)
 
 *Formato para crear archivo sql para Flyway Migration:*
 
@@ -195,11 +131,8 @@ forohub_alura.flyway_schema_history
 ```
 y observamos el contenido de la tabla: 
 
-![bdtablamed](https://github.com/nandojmj/Alura_ClinicaVollmed/assets/156966097/d1dca283-6689-46d6-a30a-d6ec448ffa87)
 
 ![flyway](https://github.com/nandojmj/Alura_ClinicaVollmed/assets/156966097/482b1ca6-d2b8-4117-814a-871048ff6188)
-
-
 
 &nbsp;
 
@@ -218,37 +151,50 @@ En este caso utilizamos: Insomnia: `https://insomnia.rest` para probar la API, c
 
 ***Obtener Usuarios registrados en la base de datos:***
 
-![insomnia2](https://github.com/nandojmj/Alura_Challenge_API_REST_Foro_hub/assets/156966097/b37993f0-8468-4bb4-a55e-8fe703264e1c)
+
+ 
+![med1](https://github.com/nandojmj/Alura_ClinicaVollmed/assets/156966097/066a4d6d-00d0-4cab-82a4-a704830503d8)
+
+![med2](https://github.com/nandojmj/Alura_ClinicaVollmed/assets/156966097/a8366618-9a28-48b0-a65e-583f6079b052)
+
+![med3](https://github.com/nandojmj/Alura_ClinicaVollmed/assets/156966097/a75b85bd-a698-4544-bd54-bc5e1eb1c524)
+
+![med4](https://github.com/nandojmj/Alura_ClinicaVollmed/assets/156966097/f54fe97c-b749-4b3b-b150-2df31762b6fe)
+
+![med5](https://github.com/nandojmj/Alura_ClinicaVollmed/assets/156966097/8aa5e086-2424-4d94-9779-3a52a8e4bc1d)
+
+![med6](https://github.com/nandojmj/Alura_ClinicaVollmed/assets/156966097/3b629930-3f1a-433a-b6eb-7fc29e7a5df8)
+
+![med7](https://github.com/nandojmj/Alura_ClinicaVollmed/assets/156966097/199c1564-80cf-46e3-8bd8-193417600f53)
+
+![med8](https://github.com/nandojmj/Alura_ClinicaVollmed/assets/156966097/9f11cf78-ba63-4d70-9177-e43619f83aad)
 
 
-***Crear Usuario:***
 
-![insomnia3](https://github.com/nandojmj/Alura_Challenge_API_REST_Foro_hub/assets/156966097/f6b1f82a-d941-4f0f-ae78-2fda443ae1e9)
+![med19](https://github.com/nandojmj/Alura_ClinicaVollmed/assets/156966097/4f6bc77b-f775-4864-9d7d-145231aae973)
 
+![med20](https://github.com/nandojmj/Alura_ClinicaVollmed/assets/156966097/cbcc1977-60e6-497b-878e-20cc46db8cab)
 
-***Eliminar Usuario:***
+![med21](https://github.com/nandojmj/Alura_ClinicaVollmed/assets/156966097/aeffd4aa-11c3-4bc1-9b6a-7480a52afb87)
 
-![insomnia5](https://github.com/nandojmj/Alura_Challenge_API_REST_Foro_hub/assets/156966097/4e8956f8-55aa-4ea1-b544-882723b893fc)
+![med22](https://github.com/nandojmj/Alura_ClinicaVollmed/assets/156966097/8652903b-c8a7-44d6-8091-2f307694e8d5)
 
+![med23](https://github.com/nandojmj/Alura_ClinicaVollmed/assets/156966097/acd5deb0-bf1e-4f40-8c79-96d761aa1bf7)
 
-***Obtener Topicos registrados en la base de datos:***
+![med24](https://github.com/nandojmj/Alura_ClinicaVollmed/assets/156966097/6fed5b9d-594e-45f1-8b50-1a030f19fa49)
 
-![insomnia6](https://github.com/nandojmj/Alura_Challenge_API_REST_Foro_hub/assets/156966097/e04eb2c3-e9df-4483-bfd7-425adfdb649f)
+![med25](https://github.com/nandojmj/Alura_ClinicaVollmed/assets/156966097/ee533ea8-0af6-4a2d-bd1f-fa90431e3948)
 
-
-***Crear Topicos:***
-
-![insomnia7](https://github.com/nandojmj/Alura_Challenge_API_REST_Foro_hub/assets/156966097/2cb9942a-4118-447e-8080-bb327c4bb676)
+![med26](https://github.com/nandojmj/Alura_ClinicaVollmed/assets/156966097/4e0808d9-4940-47be-bdac-ac260a80fb6b)
 
 
-***Eliminar Topicos (Cerrar Topico, no se elina de la BD, eliminacion logicamente):***
 
-![insomnia10](https://github.com/nandojmj/Alura_Challenge_API_REST_Foro_hub/assets/156966097/95df003d-cdb1-4bdc-b3c6-9741582a9ca5)
+
 
 &nbsp;
 
 
-## 9. Autenticación con Spring Security
+## Autenticación con Spring Security
 [![Static Badge](https://img.shields.io/badge/IDE-IntelliJ_IDEA-%23ff0534?style=flat&logo=IntelliJ%20IDEA&logoColor=%232196f3)](https://www.jetbrains.com/es-es/idea/) 
 [![Static Badge](https://img.shields.io/badge/Language-Java-%23ff0000?style=flat)](#)
 [![Static Badge](https://img.shields.io/badge/Pruebas_finales-%2340a5ff?style=flat)](#)
@@ -311,145 +257,7 @@ public class SecurityConfigurations {
 
  
 
-## 10. Generar y validar un token con JWT
-[![Static Badge](https://img.shields.io/badge/IDE-IntelliJ_IDEA-%23ff0534?style=flat&logo=IntelliJ%20IDEA&logoColor=%232196f3)](https://www.jetbrains.com/es-es/idea/) 
-[![Static Badge](https://img.shields.io/badge/Language-Java-%23ff0000?style=flat)](#)
-[![Static Badge](https://img.shields.io/badge/Insomnia-REST%20Client-%234000BF?logo=Insomnia&logoColor=%234000BF)](#)
-[![Static Badge](https://img.shields.io/badge/Pruebas_finales-%2340a5ff?style=flat)](#)
-
-Para agregar mayor seguridad a tu aplicación, una opción muy ventajosa es requerir tokens para autenticación. El JWT (JSON Web Token) es un estándar utilizado para compartir información entre cliente y servidor que será muy útil en esta tarea.
-
-> [!NOTE]
-> Para poder utilizar el JWT es necesario agregar su biblioteca en nuestro pom.xml como dependencia. Accede al sitio para obtener la biblioteca en Java de Auth0: JWT.IO
-
-Esta biblioteca es importante precisamente para poder generar el token en el estándar JWT y así agregarlo en la configuración de seguridad de nuestro proyecto, creando una clase DTO UsernamePasswordAuthenticationToken para recibir el nombre de usuario y contraseña.
-
-&nbsp;
-
-Además, es necesaria la construcción de una clase de servicio, TokenService, para aislar la generación y validación del token.
-
-En la clase, se ha implementado el método "generarToken()", utilizando la biblioteca JWT para crear un token con el algoritmo HMAC256 y una contraseña. También se ha añadido la funcionalidad de configurar la fecha de expiración del token.
-
-Por último, es necesario inyectar esta clase en tu controlador de autenticación, y así obtener el token retornado en la respuesta de la solicitud de inicio de sesión.
-
-*Fragmento de codigo utilizado en la clase `TokenService.java`:*
-```java
- // Resto del código omitido...
-
-@Service
-public class TokenService {
-
-    // Inyecta el valor del secreto API desde las propiedades de la aplicación.
-    @Value("${api.security.secret}")
-    private String apiSecret;
-
-    /**
-     * Genera un token JWT para un usuario dado.
-     *
-     * @param usuario El usuario para el cual se genera el token.
-     * @return El token JWT generado.
-     */
-    public String generarToken(Usuario usuario) {
-        try {
-            // Crea el algoritmo HMAC256 utilizando el secreto API.
-            Algorithm algorithm = Algorithm.HMAC256(apiSecret);
-
-            // Construye y firma el token JWT con las siguientes reclamaciones:
-            // - Emisor (issuer)
-            // - Sujeto (subject), que es el email del usuario
-            // - ID del usuario
-            // - Perfil del usuario
-            // - Fecha de expiración
-            return JWT.create()
-                    .withIssuer("foro alura")
-                    .withSubject(usuario.getEmail())
-                    .withClaim("id", usuario.getId())
-                    .withClaim("perfil", usuario.getPerfil().name()) // Agrega el perfil como claim
-                    .withExpiresAt(generarFechaExpiracion())
-                    .sign(algorithm);
-        } catch (JWTCreationException exception) {
-            // Maneja la excepción si ocurre un error al crear el token.
-            throw new RuntimeException("Error al generar el token JWT", exception);
-        }
-    }
-
- // Resto del código omitido...
-
-```
-&nbsp;
-
-## 11. Autenticación con JWT
-[![Static Badge](https://img.shields.io/badge/IDE-IntelliJ_IDEA-%23ff0534?style=flat&logo=IntelliJ%20IDEA&logoColor=%232196f3)](https://www.jetbrains.com/es-es/idea/) 
-[![Static Badge](https://img.shields.io/badge/Language-Java-%23ff0000?style=flat)](#)
-[![Static Badge](https://img.shields.io/badge/Insomnia-REST%20Client-%234000BF?logo=Insomnia&logoColor=%234000BF)](#)
-[![Static Badge](https://img.shields.io/badge/Pruebas_finales-%2340a5ff?style=flat)](#)
-
-### Control de acceso
-Después de la generación del token JWT, este debe ser utilizado para autenticar la gestión de registros de los tópicos, incluyendo acciones como creación, consulta, actualización o eliminación. La API debe ser configurada para responder con el resultado de cada solicitud, siempre y cuando el token proporcionado sea válido.
-
-Antes de configurar más detalles del control de acceso, es válido agregar una nueva solicitud con una URL y un archivo JSON que contenga el nombre de usuario y contraseña para la generación del token. "http://localhost:8080/login"?
-
-En principio, debemos mapear las URLs y validar los tokens en nuestro controlador. Recomendamos crear una clase separada para validar los tokens y llamarla antes de las solicitudes en el controlador para evitar la repetición de código.
-
-> [!NOTE]
-> Destacamos la importancia de almacenar y enviar el token junto con las próximas solicitudes.
-> Reforzamos la necesidad de crear un filter o interceptor en el proyecto para validar el token en cada solicitud.
-
-*Fragmento de codigo utilizado en la clase `AutenticacionService`:*
-```java
- // Resto del código omitido...
-  @Override
-    public UserDetails loadUserByUsername(String username) throws UsernameNotFoundException {
-        return usuarioRepository.findByEmail(username);
-    }
-  public DatosRespuestaUsuario autenticarUsuario(DatosAutenticacionUsuario datosAutenticacion) {
-        // Validar los datos de autenticación
-        validadores.forEach(v-> v.validar(datosAutenticacion));
-        // Buscar y devolver los datos del usuario autenticado
-        return new DatosRespuestaUsuario((Usuario) usuarioRepository.findByEmail(datosAutenticacion.email()));
-    }
-
- // Resto del código omitido...
-```
-&nbsp;
-
-*Fragmento de codigo utilizado en la clase `AutenticacionController`:*
-```java
- // Resto del código omitido...
-@RestController
-@RequestMapping("/login")
-@Tag(name = "Autenticación - Login", description = "Gestionar la creación y verificación de tokens JWTO para el login de usuario")
-public class AutenticacionController {
-
-    @Autowired
-    private AuthenticationManager authenticationManager;  // Gestor de autenticación de Spring Security
-
-    @Autowired
-    private TokenService tokenService;  // Servicio para la generación y validación de tokens JWT
-
-    @Autowired
-    private AutenticacionService autenticacionService;  // Servicio de autenticación personalizado
-
-
-
- // Resto del código omitido...
-```
-&nbsp;
-
-## 12. **Hacer un README:** [![Static Badge](https://img.shields.io/badge/status-OK-gree)](#)
-Uno de los pasos más importantes al participar en una selección de trabajo es resolver un desafío propuesto por la empresa con la información de la resolución, y generalmente esto debe estar en el README. ¿Y qué es el README? Es un archivo con extensión .md y es un documento con la descripción del proyecto. 
-Este mismo archivo que se esta leyendo fue el resultado del README para el Challenge.
-
-&nbsp;
-## 13.	**Implementa otras rutas en tu aplicación - (Opcional)** [![Static Badge](https://img.shields.io/badge/status-OK-gree)](#)
-
-Para nuestro foro estar completo deberíamos tener otras rutas o endopints que nos permitirán crear, listar, actualizar y eliminar otras informaciones además de los tópicos como:
-
-- /usuario
-- /respuestas
-&nbsp;
-
-## 14. Documentación con Swagger - (Opcional) ![Static Badge](https://img.shields.io/badge/Swagger-valid%2F3.0-green?logo=swagger)
+##  Documentación con Swagger - (Opcional) ![Static Badge](https://img.shields.io/badge/Swagger-valid%2F3.0-green?logo=swagger)
  [![Static Badge](https://img.shields.io/badge/status-OK-gree)](#)
 
 Se nos solicito documentar nuestra  API con Spring Swagger. Swagger es una herramienta extremadamente ventajosa para tu API, ya que ofrece una interfaz amigable y accesible, así como una forma de documentación automática generada simultáneamente con el desarrollo de la API. Es una herramienta basada en el estándar OpenAPI que nos permite documentar y probar nuestros Web APIs,
@@ -458,7 +266,9 @@ Se nos solicito documentar nuestra  API con Spring Swagger. Swagger es una herra
 
 Una vez realizada la configuración, ya podremos acceder a la interfaz gráfica de Swagger desde la dirección ```http://localhost:8080/swagger-ui/index.html```. El resultado sería el siguiente:
 
- ![swagger_login](https://github.com/nandojmj/Alura_Challenge_API_REST_Foro_hub/assets/156966097/b7f3fffa-e829-4ca2-927d-d164132a84a1)
+![med33](https://github.com/nandojmj/Alura_ClinicaVollmed/assets/156966097/4f206a89-bea4-43cb-b2db-7108affb1e5e)
+
+
 
 Ingresando a Autenticacion- Login de la interface realizamos el login con datos email y contraseña del usuario registrado. Realizamos un clic en Execute:
 
@@ -472,38 +282,26 @@ Se ha incluido un botón [ Authorize ] en la interfaz, que nos permitirá añadi
 
 ![swagger_login4](https://github.com/nandojmj/Alura_Challenge_API_REST_Foro_hub/assets/156966097/1bdfcc17-4280-42dd-8f7d-eb9004f4ea28)
 
-`CursoController` en la interfaz:
 
-![swagger_cursos](https://github.com/nandojmj/Alura_Challenge_API_REST_Foro_hub/assets/156966097/3cb64e34-7b50-4e06-8eee-79c604381bf5)
 
-`TopicoController` en la interfaz:
+![med32](https://github.com/nandojmj/Alura_ClinicaVollmed/assets/156966097/08c29bc0-a079-4fc9-b1d0-85ce4258ac5c)
 
-![swagger_topicos](https://github.com/nandojmj/Alura_Challenge_API_REST_Foro_hub/assets/156966097/6bc6380c-b1df-454f-a26b-8cd54eddc351)
 
-Consultar un Topico por ID:
+![med28](https://github.com/nandojmj/Alura_ClinicaVollmed/assets/156966097/44b0f84b-d2ab-4ae6-985d-2d47965bc6b4)
 
-![swagger_topicosid](https://github.com/nandojmj/Alura_Challenge_API_REST_Foro_hub/assets/156966097/432b19ea-b4f7-44f3-9fd9-deab10dc3ada)
+![med29](https://github.com/nandojmj/Alura_ClinicaVollmed/assets/156966097/c8d405be-e8dc-4463-b91e-5f269db57f1f)
 
-Consultar un Topico por estado de respuesta:
+![med30](https://github.com/nandojmj/Alura_ClinicaVollmed/assets/156966097/900f5e51-4548-4447-b8a9-07ce9f39fccd)
 
-![swagger_topicosestado1](https://github.com/nandojmj/Alura_Challenge_API_REST_Foro_hub/assets/156966097/17c26356-619e-4e44-9527-79c017ff6ff7)
 
-Listado de consultar un Topico por estado de respuesta:
 
-![swagger_topicosestado2](https://github.com/nandojmj/Alura_Challenge_API_REST_Foro_hub/assets/156966097/e78653ab-ef87-4309-aba4-0e9a279de89c)
 
-`respuestaController` en la interfaz:
 
-![swagger_respuestas](https://github.com/nandojmj/Alura_Challenge_API_REST_Foro_hub/assets/156966097/29089e15-b16e-416e-bc52-1e33be9eac81)
-
-`AdminController` en la interfaz:
-
-![swagger_admin](https://github.com/nandojmj/Alura_Challenge_API_REST_Foro_hub/assets/156966097/b12f1da5-1195-43ba-bc65-307f251b1e91)
 
     
 &nbsp;
  
-## 15. Ejecución del Proyecto
+## Ejecución del Proyecto
 
 Para ejecutar el proyecto, sigue estos pasos:
 
@@ -511,10 +309,6 @@ Para ejecutar el proyecto, sigue estos pasos:
 * Importa el proyecto en tu IDE de Java (este proyecto se realizo en IntelliJ IDEA).
 * Configura las dependencias y ajusta la configuración según sea necesario.
 * Corre la aplicación para interactuar con la base de datos y alguna herramienta de pruebas de API, como Postman o Insomnia.
-
-
-## 16. Video Y Capturas de pantalla  [![Static Badge](https://img.shields.io/badge/status-under%20construction-%2393a8ac)](#)
-
 
 
 ## Glossary [![Static Badge](https://img.shields.io/badge/status-under%20construction-%2393a8ac)](#)
@@ -588,8 +382,6 @@ FUERA O EN RELACIÓN CON EL SOFTWARE O EL USO U OTROS TRATOS EN EL
 SOFTWARE.
 
 ```
-## Insignia Exclusiva para este Challenge - Entregado
 
-![Badge-Spring](https://github.com/nandojmj/Alura_Challenge_API_REST_Foro_hub/assets/156966097/6ce0ba25-323f-4a30-a4a1-eee0791d1ad0)
 
 
